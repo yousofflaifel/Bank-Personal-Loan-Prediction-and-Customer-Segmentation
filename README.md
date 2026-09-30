@@ -366,7 +366,6 @@ The main files for the project are:
 
 ```text
 Yousof_Flaifel_AI.ipynb
-Yousof_Flaifel_AI.docx
 bank_personal_loan_data.csv
 Dataset Metadata.pdf
 ```
@@ -374,10 +373,6 @@ Dataset Metadata.pdf
 ### `Yousof_Flaifel_AI.ipynb`
 
 Contains the Python-based machine learning implementation and analysis.
-
-### `Yousof_Flaifel_AI.docx`
-
-Contains the project report, methodology, model discussion, evaluation, technical decisions, assumptions, challenges, and future improvements.
 
 ### `bank_personal_loan_data.csv`
 
